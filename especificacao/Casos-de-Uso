@@ -1,0 +1,70 @@
+DESCRIÇÃO TEXTUAL DOS CASOS DE USO
+
+UC01 – Realizar Inscrição
+Ator Principal:  Participante
+
+Objetivo : Inscrever-se em um evento.
+
+Pré-condições
+Participante cadastrado.
+Evento disponível.
+
+Fluxo Principal
+Participante acessa a lista de eventos.
+Seleciona um evento.
+Sistema apresenta detalhes.
+Participante confirma inscrição.
+Sistema registra a inscrição.
+Sistema gera comprovante.
+Sistema notifica o participante.
+
+Pós-condição
+Inscrição registrada.
+
+UC02 – Cancelar Inscrição
+Ator : Participante
+
+Fluxo Principal
+Participante acessa suas inscrições.
+Seleciona uma inscrição.
+Solicita cancelamento.
+Sistema verifica regras do evento.
+Sistema efetua cancelamento.
+Sistema libera vaga.
+
+UC03 – Criar Evento
+Ator: Organizador
+
+Fluxo Principal
+Organizador acessa módulo de eventos.
+Informa dados do evento.
+Define quantidade de vagas.
+Salva cadastro.
+Sistema publica evento.
+
+UC04 – Confirmar Pagamento
+Ator: Equipe Financeira
+
+Fluxo Principal
+Financeiro acessa pagamentos pendentes.
+Seleciona pagamento.
+Confirma recebimento.
+Sistema altera status da inscrição para confirmada.
+
+UC05 – Emitir Certificado
+Ator: Participante
+
+Fluxo Principal
+Participante acessa área de certificados.
+Seleciona evento.
+Sistema valida elegibilidade.
+Certificado é gerado.
+Participante realiza download.
+
+UC06 – Consultar Participantes
+Ator: Palestrante
+
+Fluxo Principal
+Palestrante acessa suas atividades.
+Seleciona atividade desejada.
+Sistema exibe participantes inscritos.
