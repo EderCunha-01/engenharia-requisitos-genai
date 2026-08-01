@@ -1,0 +1,23 @@
+PRODUCT BACKLOG (HISTÓRIAS DE USUÁRIO)
+Épico: Inscrições
+HU01 - Como participante, quero visualizar todos os eventos disponíveis, para escolher os que desejo participar.
+HU02 - Como participante, quero realizar inscrição online, para garantir minha participação.
+HU03 - Como participante, quero receber um comprovante, para ter evidência da inscrição.
+HU04 - Como participante, quero cancelar minha inscrição, para não depender do suporte da organização.
+
+Épico: Pagamentos
+HU05 - Como participante, quero efetuar pagamentos online, para confirmar minha inscrição.
+HU06 - Como membro da equipe financeira, quero confirmar pagamentos, para validar inscrições.
+HU07 - Como membro da equipe financeira, quero registrar reembolsos, para controlar as devoluções financeiras.
+
+Épico: Organização
+HU08 - Como organizador, quero cadastrar eventos, para disponibilizá-los ao público.
+HU09 - Como organizador, quero controlar automaticamente as vagas, para evitar exceder a capacidade.
+HU10 - Como organizador, quero acompanhar inscrições em tempo real, para monitorar a ocupação dos eventos.
+HU11 - Como organizador, quero gerenciar listas de espera, para preencher vagas liberadas.
+
+Épico: Certificados
+HU12 - Como participante, quero emitir meus certificados, para comprovar minha participação.
+
+Épico: Palestrantes
+HU13 - Como palestrante, quero visualizar os participantes de minhas atividades, para planejar minhas apresentações.
