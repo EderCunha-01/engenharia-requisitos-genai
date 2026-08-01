@@ -1,0 +1,117 @@
+PROTÓTIPOS DE TELA (WIREFRAMES)
+Tela 1 – Catálogo de Eventos
++---------------------------------------------------+
+| EVENTUS                                            |
++---------------------------------------------------+
+| Buscar Evento: [____________________] [Pesquisar] |
++---------------------------------------------------+
+
+| Evento A - Congresso de Tecnologia                |
+| Data: 20/11/2025                                  |
+| Vagas: 120/200                                    |
+| [Ver Detalhes] [Inscrever-se]                     |
++---------------------------------------------------+
+
+| Evento B - Workshop IA                            |
+| Data: 21/11/2025                                  |
+| Vagas: lotado                                     |
+| [Lista de Espera]                                 |
++---------------------------------------------------+
+
+Tela 2 – Detalhes da Inscrição
++---------------------------------------------------+
+| INSCRIÇÃO                                         |
++---------------------------------------------------+
+Evento: Congresso de Tecnologia
+
+Data: 20/11/2025
+
+Valor:R$ 150,00
+
+Forma de Pagamento:
+( ) PIX
+( ) Cartão
+
+[Confirmar Inscrição]
+
+[Cancelar]
+
+Tela 3 – Área do Participante
++---------------------------------------------------+
+| ÁREA DO PARTICIPANTE                              |
++---------------------------------------------------+
+Menu:
+- Meus Eventos
+- Certificados
+- Pagamentos
+
+-----------------------------------------------------
+
+Minhas Inscrições
+
+Evento                    Status
+
+Congresso Tecnologia      Confirmada
+Workshop IA               Pendente
+
+[Cancelar Inscrição]
+[Visualizar Comprovante]
+
+Tela 4 – Painel do Organizador
++---------------------------------------------------+
+| PAINEL DO ORGANIZADOR                             |
++---------------------------------------------------+
+[ Novo Evento ]
+
+Eventos
+
+Evento                 Inscritos     Vagas
+
+Congresso Tech            150         200
+Workshop IA                50          50
+
+[Detalhes]
+[Editar]
+[Gerenciar Participantes]
+
+Tela 5 – Painel Financeiro
++---------------------------------------------------+
+| CONTROLE FINANCEIRO                               |
++---------------------------------------------------+
+Pagamentos Pendentes
+
+Participante      Evento         Valor
+
+João Silva        Congresso      150,00
+Ana Souza         Workshop       50,00
+
+[Confirmar Pagamento]
+[Registrar Reembolso]
+
+Tela 6 – Emissão de Certificados
++---------------------------------------------------+
+| CERTIFICADOS                                      |
++---------------------------------------------------+
+Eventos Concluídos
+
+[Congresso de Tecnologia]
+
+Status:
+Elegível
+
+[Gerar Certificado]
+[Download PDF]
+
+Tela 7 – Área do Palestrante
++---------------------------------------------------+
+| PAINEL DO PALESTRANTE                             |
++---------------------------------------------------+
+Minhas Atividades
+
+Workshop IA Generativa
+
+Participantes Inscritos:
+
+1. João Silva
+2. Ana Souza
+3. Carlos Lima
