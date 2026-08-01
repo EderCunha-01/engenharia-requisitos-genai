@@ -1,35 +1,34 @@
 # Requisitos Não Funcionais
+Os requisitos não funcionais não foram detalhados durante a elicitação, porém podem ser identificadas necessidades implícitas e lacunas.
 
-## Visão Geral
+RNF01 – Disponibilidade
 
-Liste aqui os requisitos não funcionais do sistema. Cada requisito deve ter um identificador único (ex: RNF-01), descrição, categoria (ex: desempenho, segurança), nível/valor esperado e critérios de aceitação.
+O sistema deve estar disponível para acesso dos participantes, organizadores, palestrantes e equipe financeira durante os períodos de inscrição.
 
-## Exemplo de formato
+RNF02 – Desempenho
 
-- RNF-01: Tempo de resposta
-  - Descrição: As páginas principais da aplicação devem carregar em até 2 segundos com carga normal.
-  - Categoria: Desempenho
-  - Nível esperado: <= 2s para 90% das solicitações
-  - Critério de aceitação: Medições de carga mostram 90% das requisições dentro do limite em cenário de teste.
+O sistema deve atualizar informações de vagas e inscrições em tempo real ou próximo do tempo real.
 
-## Categorias comuns
+RNF03 – Segurança
 
-- Desempenho
-- Segurança
-- Confiabilidade/Disponibilidade
-- Usabilidade
-- Manutenibilidade
-- Portabilidade
-- Escalabilidade
-- Compatibilidade
+O sistema deve garantir autenticação e controle de acesso conforme o perfil do usuário.
 
-## Requisitos
+RNF04 – Privacidade de dados
 
-1. RNF-01 - 
-2. RNF-02 - 
-3. RNF-03 - 
+O sistema deve proteger os dados pessoais dos participantes conforme a legislação aplicável (LGPD).
 
-## Observações
+RNF05 – Confiabilidade
 
-- Relacione cada requisito não funcional aos requisitos funcionais correspondentes quando aplicável.
-- Indique métricas, ferramentas e cenários de teste para validação.
+O sistema deve manter a integridade das informações relacionadas a inscrições, pagamentos e certificados.
+
+RNF06 – Usabilidade
+
+O sistema deve permitir que participantes realizem inscrições e cancelamentos de forma simples e intuitiva.
+
+RNF07 – Escalabilidade
+
+O sistema deve suportar o crescimento da quantidade de eventos e usuários.
+
+RNF08 – Acessibilidade
+
+O sistema deve atender requisitos mínimos de acessibilidade para diferentes perfis de usuários.
